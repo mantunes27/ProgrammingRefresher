@@ -7,3 +7,13 @@ C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\Uni
 C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\obj\Debug\UnitTests.dll
 C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\ma\Documents\GitHub\ProgrammingRefresher\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\ma\Documents\GitHub\ProgrammingRefresher\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\ma\Documents\GitHub\ProgrammingRefresher\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\ma\Documents\GitHub\ProgrammingRefresher\UnitTests\bin\Debug\ProgrammingRefresher.exe
+C:\Users\ma\Documents\GitHub\ProgrammingRefresher\UnitTests\bin\Debug\ProgrammingRefresher.pdb
+C:\Users\ma\Documents\GitHub\ProgrammingRefresher\UnitTests\bin\Debug\ProgrammingRefresher.exe.config
+C:\Users\ma\Documents\GitHub\ProgrammingRefresher\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\ma\Documents\GitHub\ProgrammingRefresher\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\ma\Documents\GitHub\ProgrammingRefresher\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\ma\Documents\GitHub\ProgrammingRefresher\UnitTests\obj\Debug\UnitTests.pdb

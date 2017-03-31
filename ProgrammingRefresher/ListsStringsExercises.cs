@@ -22,14 +22,16 @@ namespace ProgrammingRefresher
         public void rotateList(List<int> a,int steps)
         {
             sortAndPrintList(a);
-            for(int i = 0; i <= steps; i++ )
+            for(int i = 1; i <= steps; i++ )
             {
-                int last = a.Count() - 1;
-                
+                int last = a.Count()-1 ;
+                a.Add(a[0]);
                 a.Insert(0, a[last]);
-                a.RemoveAt(0);
-                a.Insert(last, a[0]);
-                a.RemoveAt(0);
+
+                last = a.Count() - 1;
+
+                a.RemoveAt(last - 1);
+                a.RemoveAt(last - 1);
             }
             Console.WriteLine("after rotating");
             sortAndPrintList(a);
@@ -44,10 +46,10 @@ namespace ProgrammingRefresher
             List<int> list = new List<int>();
             list.Add(2);
             list.Add(3);
-            list.Add(30);
-            list.Add(29);
-            list.Add(25);
-            list.Add(12);
+            list.Add(4);
+            list.Add(5);
+            list.Add(6);
+            list.Add(7);
 
             List<string> listString = new List<string>();
             listString.Add("A");
@@ -231,9 +233,6 @@ namespace ProgrammingRefresher
 
             //12 Write a function that rotates a list by k elements. For example [1,2,3,4,5,6] rotated by two becomes [3,4,5,6,1,2]. Try solving this without creating a copy of the list. How many swap or move operations do you need?
 
-            
-
-          
 
             ListsStringsExercises a = new ListsStringsExercises();
             a.rotateList(list, 2);
