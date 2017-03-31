@@ -1,0 +1,8 @@
+c:\users\mantunes\documents\visual studio 2015\Projects\ProgrammingRefresher\ProgrammingRefresher\bin\Debug\ProgrammingRefresher.exe.config
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\ProgrammingRefresher\bin\Debug\ProgrammingRefresher.exe
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\ProgrammingRefresher\bin\Debug\ProgrammingRefresher.pdb
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\ProgrammingRefresher\obj\Debug\ProgrammingRefresher.csprojResolveAssemblyReference.cache
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\ProgrammingRefresher\obj\Debug\ProgrammingRefresher.exe
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\ProgrammingRefresher\obj\Debug\ProgrammingRefresher.pdb
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\ProgrammingRefresher\bin\Debug\nunit.framework.dll
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\ProgrammingRefresher\bin\Debug\nunit.framework.xml

@@ -1,0 +1,9 @@
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\bin\Debug\ProgrammingRefresher.exe
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\bin\Debug\ProgrammingRefresher.pdb
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\MAntunes\Documents\Visual Studio 2015\Projects\ProgrammingRefresher\UnitTests\obj\Debug\UnitTests.pdb
