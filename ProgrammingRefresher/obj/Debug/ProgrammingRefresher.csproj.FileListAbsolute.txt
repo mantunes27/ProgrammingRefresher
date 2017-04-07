@@ -14,3 +14,11 @@ C:\Users\ma\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\bin\Debug
 C:\Users\ma\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\obj\Debug\ProgrammingRefresher.csprojResolveAssemblyReference.cache
 C:\Users\ma\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\obj\Debug\ProgrammingRefresher.exe
 C:\Users\ma\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\obj\Debug\ProgrammingRefresher.pdb
+C:\Users\MAntunes\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\bin\Debug\ProgrammingRefresher.exe.config
+C:\Users\MAntunes\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\obj\Debug\ProgrammingRefresher.exe
+C:\Users\MAntunes\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\obj\Debug\ProgrammingRefresher.pdb
+C:\Users\MAntunes\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\bin\Debug\ProgrammingRefresher.exe
+C:\Users\MAntunes\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\bin\Debug\ProgrammingRefresher.pdb
+C:\Users\MAntunes\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\bin\Debug\nunit.framework.dll
+C:\Users\MAntunes\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\bin\Debug\nunit.framework.xml
+C:\Users\MAntunes\Documents\GitHub\ProgrammingRefresher\ProgrammingRefresher\obj\Debug\ProgrammingRefresher.csprojResolveAssemblyReference.cache

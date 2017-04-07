@@ -36,11 +36,17 @@ namespace ProgrammingRefresher
             Console.WriteLine("after rotating");
             sortAndPrintList(a);
         }
+
+        public void finobacci(List<int> a)
+        {
+            int last = a.Count() - 1;
+            int secondLast = a.Count() - 2;
+            int newNumber = a.ElementAt(last) + a.ElementAt(secondLast);
+            a.Add(newNumber);
+        }
+
         static void Main(string[] args)
         {
-            
-            
-
 
             //1 Write a function that returns the largest element in a list.
             List<int> list = new List<int>();
@@ -234,8 +240,28 @@ namespace ProgrammingRefresher
             //12 Write a function that rotates a list by k elements. For example [1,2,3,4,5,6] rotated by two becomes [3,4,5,6,1,2]. Try solving this without creating a copy of the list. How many swap or move operations do you need?
 
 
+           // ListsStringsExercises a = new ListsStringsExercises();
+           // a.rotateList(list, 2);
+
+            //13 Write a function that computes the list of the first 100 Fibonacci numbers.
+            //0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946, 17711, 28657, 46368, 75025, 121393, 196418, 317811
+
+
+            List<int> finoList = new List<int>();
+            finoList.Add(0);
+            finoList.Add(1);
+
             ListsStringsExercises a = new ListsStringsExercises();
-            a.rotateList(list, 2);
+          //  a.finobacci(finoList);
+            a.sortAndPrintList(finoList);
+
+
+            for(int i = 0; i < 100; i++)
+            {
+                a.finobacci(finoList);
+            }
+
+            a.sortAndPrintList(finoList);
 
         }
 
