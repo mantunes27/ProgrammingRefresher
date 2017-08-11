@@ -9,6 +9,18 @@ namespace ProgrammingRefresher
 {
     class ListsStringsExercises
     {
+        //exercise 14 of list
+        public void printNumberAsList(int a)
+        {
+            List<int> intToList = new List<int>();
+            string converted = a.ToString();
+
+            foreach(char e in converted)
+            {
+                int x = int.Parse(e.ToString());
+                intToList.Add(x);
+            }
+        }
         public void sortAndPrintList(List<int> a)
         {
             //a.Sort();
